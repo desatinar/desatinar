@@ -1,5 +1,11 @@
-### Olá você :D 👋
+### Olá, você! Me chamo Rodrigo 🙋🏾‍♂️
 
+## Sobre mim
+
+<p>📑 Atualmente estudando Desenvolvimento Web Full Stack na <a href="https://www.labenu.com.br/" target="_blank">Labenu</a></p>
+<p>🕹️ Amante de jogos eletrônicos, 🎧 músicas , 📖 boas leituras e 🎞️ cinema  </p>
+ 
+## Meu Status do GitHub
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=desatinar&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
@@ -12,3 +18,7 @@
   <img align='center' alt='nodejs' src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
   <img align='center' alt='mysql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
 </div>
+
+## Contatos
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigosdn/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/desatinar3)
