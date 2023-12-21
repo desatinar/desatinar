@@ -2,7 +2,6 @@
 
 ## Sobre mim
 
-<p>📑 Atualmente sou Instrutor Pedagógico na <a href="https://www.labenu.com.br/" target="_blank">Labenu</a></p>
 <p>🕹️ Amante de jogos eletrônicos, 🎧 músicas , 📖 boas leituras e 🎞️ cinema  </p>
  
 ## Meu Status do GitHub
